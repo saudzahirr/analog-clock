@@ -1,3 +1,6 @@
+;Analog Clock on TASM.
+
+
 .model small
 .stack 100h
 .data
